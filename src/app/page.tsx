@@ -72,14 +72,14 @@ export default function DashboardPage() {
       <div>
         <h1 className="text-2xl font-bold tracking-tight">Dashboard</h1>
         <p className="text-muted-foreground">
-          Resumen de tu pipeline de ventas
+          Pipeline de ventas — NexGen Automations
         </p>
       </div>
 
       {isFirstRun && (
         <div className="rounded-lg border border-primary/20 bg-primary/5 p-6">
           <h2 className="text-lg font-semibold mb-2">
-            Bienvenido a Auto-CRM
+            Bienvenido a NexGen Automations CRM
           </h2>
           <p className="text-sm text-muted-foreground mb-4">
             Tu CRM esta listo. Aqui tienes como comenzar:

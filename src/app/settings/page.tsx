@@ -66,7 +66,7 @@ export default function SettingsPage() {
       <div>
         <h1 className="text-2xl font-bold tracking-tight">Configuracion</h1>
         <p className="text-muted-foreground">
-          Configuracion del CRM y comandos disponibles
+          NexGen Automations CRM — Configuracion y comandos disponibles
         </p>
       </div>
 

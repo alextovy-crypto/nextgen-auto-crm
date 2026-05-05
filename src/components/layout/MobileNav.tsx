@@ -8,7 +8,8 @@ import {
   Kanban,
   Activity,
   Settings,
-  Briefcase,
+  Bot,
+  DollarSign,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
@@ -16,7 +17,7 @@ const navItems = [
   { href: "/", label: "Dashboard", icon: LayoutDashboard },
   { href: "/pipeline", label: "Pipeline", icon: Kanban },
   { href: "/contacts", label: "Contactos", icon: Users },
-  { href: "/deals", label: "Deals", icon: Briefcase },
+  { href: "/deals", label: "Deals", icon: DollarSign },
   { href: "/activities", label: "Actividades", icon: Activity },
   { href: "/settings", label: "Configuracion", icon: Settings },
 ];
@@ -27,8 +28,11 @@ export function MobileNav() {
   return (
     <div className="flex flex-col h-full bg-[var(--sidebar)] text-[var(--sidebar-foreground)]">
       <div className="flex h-16 items-center gap-2 px-6 border-b border-[var(--sidebar-border)]">
-        <Briefcase className="h-6 w-6 text-[var(--sidebar-primary)]" />
-        <span className="text-lg font-bold tracking-tight">Auto-CRM</span>
+        <Bot className="h-6 w-6 text-[var(--sidebar-primary)]" />
+        <div className="flex flex-col leading-tight">
+          <span className="text-sm font-bold tracking-tight">NexGen Automations</span>
+          <span className="text-xs text-[var(--sidebar-foreground)]/50 font-medium">CRM</span>
+        </div>
       </div>
 
       <nav className="flex-1 px-3 py-4 space-y-1">

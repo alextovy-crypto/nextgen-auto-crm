@@ -13,9 +13,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Auto-CRM - Tu CRM con Inteligencia Artificial",
+  title: "NexGen Automations CRM",
   description:
-    "CRM conversacional con pipeline de ventas, clasificacion automatica de leads y seguimiento inteligente. Construido con Claude Code.",
+    "CRM de NexGen Automations — Pipeline de ventas, calificacion de leads con IA y seguimiento automatico para agencias de inteligencia artificial.",
 };
 
 export default function RootLayout({
