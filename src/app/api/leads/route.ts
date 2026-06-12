@@ -3,8 +3,7 @@ import { db } from "@/db";
 import { contacts } from "@/db/schema";
 
 const CORS_HEADERS = {
-  // TODO after launch: restrict to https://biztools.nextgenautomations.tech
-  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Origin": "https://biztools.nextgenautomations.tech",
   "Access-Control-Allow-Methods": "POST, OPTIONS",
   "Access-Control-Allow-Headers": "Content-Type",
 };
