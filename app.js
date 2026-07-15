@@ -13,6 +13,8 @@ const I18N = {
       "Despega Centro de Negocios: registro de LLC, preparación de taxes, reparación de crédito y consultoría de negocios en Orem, Utah. Más de 15 años ayudando a la comunidad hispana a emprender.",
     "nav.services": "Servicios",
     "nav.about": "Nosotros",
+    "nav.tools": "Herramientas",
+    "nav.blog": "Artículos",
     "nav.contact": "Contacto",
     "hero.eyebrow": "Centro de Negocios · Orem, Utah",
     "hero.title": 'Tu idea de negocio<br /><span class="text-gold">despega aquí.</span>',
@@ -77,6 +79,37 @@ const I18N = {
     "opt.credito": "Reparación de Crédito",
     "opt.consultoria": "Consultoría de Negocios",
     "opt.otro": "Otro",
+    "tools.eyebrow": "Herramientas digitales",
+    "tools.title": "Tecnología que impulsa tu negocio",
+    "tools.sub":
+      "Además de la asesoría personal, ponemos a tu alcance herramientas con inteligencia artificial para formalizar y hacer crecer tu empresa.",
+    "tool1.title": "Auditoría de Negocios con IA",
+    "tool1.text":
+      "Un panel inteligente que analiza tu negocio de cabo a rabo: qué tan listo estás para un préstamo, proyecciones financieras a futuro y un plan de acción concreto para crecer. Editas tus números y todo se recalcula al instante.",
+    "tool1.link": 'Solicítala en tu asesoría gratuita <span aria-hidden="true">→</span>',
+    "tool2.title": "BizTools — de DBA a LLC",
+    "tool2.text":
+      "Plataforma en línea de NextGen Automations enfocada en ayudarte a dar el paso de un DBA (nombre comercial) a una LLC formal: evalúa tu situación y te guía en el proceso para proteger tu patrimonio y crecer con estructura legal sólida.",
+    "tool2.link": 'Visitar BizTools <span aria-hidden="true">→</span>',
+    "blog.eyebrow": "Artículos de negocios",
+    "blog.title": "Aprende a emprender con el pie derecho",
+    "blog.sub":
+      "Guías prácticas en español para formalizar, financiar y hacer crecer tu negocio en Estados Unidos.",
+    "art1.tag": "Aperturas",
+    "art1.title": "De DBA a LLC: por qué y cómo dar el paso",
+    "art1.desc":
+      "Operar solo con un nombre comercial deja tu patrimonio personal expuesto. Te explicamos qué cambia con una LLC y cómo hacer la transición sin complicaciones.",
+    "art2.tag": "Trámites",
+    "art2.title": "Cómo obtener tu EIN paso a paso",
+    "art2.desc":
+      "El EIN es el número de identificación de tu empresa ante el IRS. Aprende para qué sirve, quién lo necesita y cómo solicitarlo correctamente.",
+    "art3.tag": "Taxes",
+    "art3.title": "Impuestos para pequeños negocios: guía básica",
+    "art3.desc":
+      "Qué impuestos paga un negocio pequeño en Estados Unidos, qué deducciones existen y los errores más comunes que puedes evitar desde hoy.",
+    "blog.read1": 'Leer artículo <span aria-hidden="true">→</span>',
+    "blog.read2": 'Leer artículo <span aria-hidden="true">→</span>',
+    "blog.read3": 'Leer artículo <span aria-hidden="true">→</span>',
     "footer.tagline":
       "Centro de Negocios para la comunidad hispana. Aperturas, Taxes, Crédito y Consultoría en Orem, Utah.",
     "footer.services": "Servicios",
@@ -98,6 +131,8 @@ const I18N = {
       "Despega Business Center: LLC registration, tax preparation, credit repair, and business consulting in Orem, Utah. Over 15 years helping the Hispanic community start and grow businesses.",
     "nav.services": "Services",
     "nav.about": "About Us",
+    "nav.tools": "Tools",
+    "nav.blog": "Articles",
     "nav.contact": "Contact",
     "hero.eyebrow": "Business Center · Orem, Utah",
     "hero.title": 'Your business idea<br /><span class="text-gold">takes off here.</span>',
@@ -162,6 +197,37 @@ const I18N = {
     "opt.credito": "Credit Repair",
     "opt.consultoria": "Business Consulting",
     "opt.otro": "Other",
+    "tools.eyebrow": "Digital tools",
+    "tools.title": "Technology that powers your business",
+    "tools.sub":
+      "Beyond personal advisory, we put AI-powered tools within your reach to formalize and grow your company.",
+    "tool1.title": "AI Business Audit",
+    "tool1.text":
+      "A smart dashboard that analyzes your business end to end: how loan-ready you are, financial projections, and a concrete action plan to grow. Edit your numbers and everything recalculates instantly.",
+    "tool1.link": 'Request it in your free consultation <span aria-hidden="true">→</span>',
+    "tool2.title": "BizTools — from DBA to LLC",
+    "tool2.text":
+      "An online platform by NextGen Automations focused on helping you move from a DBA (trade name) to a formal LLC: it evaluates your situation and guides you through the process to protect your assets and grow with a solid legal structure.",
+    "tool2.link": 'Visit BizTools <span aria-hidden="true">→</span>',
+    "blog.eyebrow": "Business articles",
+    "blog.title": "Learn to start your business the right way",
+    "blog.sub":
+      "Practical guides to formalize, finance, and grow your business in the United States.",
+    "art1.tag": "Formation",
+    "art1.title": "From DBA to LLC: why and how to make the move",
+    "art1.desc":
+      "Operating under just a trade name leaves your personal assets exposed. We explain what changes with an LLC and how to transition without headaches.",
+    "art2.tag": "Paperwork",
+    "art2.title": "How to get your EIN step by step",
+    "art2.desc":
+      "The EIN is your company's ID number with the IRS. Learn what it's for, who needs one, and how to apply correctly.",
+    "art3.tag": "Taxes",
+    "art3.title": "Small business taxes: a starter guide",
+    "art3.desc":
+      "What taxes a small business pays in the U.S., which deductions exist, and the most common mistakes you can avoid starting today.",
+    "blog.read1": 'Read article <span aria-hidden="true">→</span>',
+    "blog.read2": 'Read article <span aria-hidden="true">→</span>',
+    "blog.read3": 'Read article <span aria-hidden="true">→</span>',
     "footer.tagline":
       "Business Center for the Hispanic community. Formation, Taxes, Credit & Consulting in Orem, Utah.",
     "footer.services": "Services",
